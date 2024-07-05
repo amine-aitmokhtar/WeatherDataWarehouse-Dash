@@ -30,3 +30,8 @@ The dataset, provided by the National Centers for Environmental Information, inc
 - Weather Types (WT**)
 
 This repository aims to offer an efficient and dynamic approach to climate data analysis through a well-structured data warehouse and an interactive dashboard.
+
+## Resources
+
+- **Dash Documentation**: [Dash Documentation](https://dash.plotly.com/)
+- **Python Documentation**: [Python Documentation](https://docs.python.org/3/)
