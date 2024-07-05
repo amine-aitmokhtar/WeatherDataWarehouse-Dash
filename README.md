@@ -1,5 +1,7 @@
 # WeatherDataWarehouse-Dash
 
+**Project Date: 23/05/2024**
+
 ## Description
 
 This repository hosts a project designed to convert raw climate data into a structured data warehouse.
