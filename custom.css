@@ -1,0 +1,88 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #ff6347;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.container .dropdown {
+    flex: 1 1 calc(33% - 20px);
+    margin-bottom: 20px;
+}
+
+.graph-container {
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.graph-container:hover {
+    transform: scale(1.02);
+    background-color: #f8f9fa;
+}
+
+.graph-title {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #343a40;
+}
+
+.dropdown .Select--single .Select-control {
+    height: 40px;
+    font-size: 1.1em;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.dropdown .Select--single .Select-control:hover {
+    border-color: #007bff;
+}
+
+.dropdown .Select--single .Select-value-label {
+    line-height: 40px;
+}
+
+.dropdown .Select--single .Select-arrow-zone {
+    padding-top: 6px;
+}
+
+.dropdown .Select-menu-outer {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
