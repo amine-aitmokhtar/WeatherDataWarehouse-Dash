@@ -2,7 +2,7 @@
 
 **Project Date: 23/05/2024**
 
-![Vitrine du Dashboard](./.idea/IMG_1081.jpg)
+![Vitrine du Dashboard](./.idea/Dashboard.jpg)
 
 ## Description
 
