@@ -2,6 +2,8 @@
 
 **Project Date: 23/05/2024**
 
+![Vitrine de Dashboard](IMG_1081.jpg)
+
 ## Description
 
 This repository hosts a project designed to convert raw climate data into a structured data warehouse.
